@@ -66,4 +66,21 @@ Suggestion: Tailor road safety measures according to the unique challenges and c
 <img width="151" alt="Image" src="https://github.com/user-attachments/assets/c0a7b1c3-1644-4ade-83e2-14eab9421663" />
 
 
+These visuals shed light on the impact of light and road surface conditions on accidents.
+
+Suggestions:
+
+Improve lighting in areas with high accident rates during dark hours.
+Implement road maintenance strategies based on prevalent surface conditions.
+
+9. Accident Frequency by Day of the Week:
+
+<img width="183" alt="Image" src="https://github.com/user-attachments/assets/a4309075-803f-4106-83b7-86eac83a5434" />
+
+Highlighting the frequency of accidents on different days, this visual allows for strategic resource allocation.
+
+Suggestion: Enhance enforcement and awareness campaigns on Fridays, the day with the highest accident frequency.
+
+In conclusion-- users should leverage the insights from the dashboard to implement a multifaceted approach to road safety. Prioritize targeted measures based on vehicle types, road types, and location-specific challenges. Enhance awareness, enforcement, and infrastructure to collectively reduce the overall number of accidents and casualties. Regularly revisit the dashboard to adapt strategies based on evolving trends and conditions.
+
 
